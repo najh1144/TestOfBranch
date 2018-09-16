@@ -6,6 +6,10 @@ public class TestMain {
 		int testA = 10;
 		testA = TestClass.testIntOrg(testA);
 		System.out.println(testA);
+		
+		int testB = 5;
+		testB = TestClass.testIntNew(testB);
+		System.out.println(testB);
 
 	}
 

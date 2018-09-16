@@ -17,4 +17,8 @@ public class TestClass {
 		}
 	}
 	
+	public static int testIntNew(int b) {
+		return b * 3;
+	}
+	
 }
